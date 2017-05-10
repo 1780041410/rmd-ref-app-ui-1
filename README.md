@@ -71,14 +71,14 @@ cf push my_ref_app
 
 The reference application is a good starting point to understand Predix cloud application development. It would be helpful to get familiar with [Cloud Foundry concepts](http://docs.cloudfoundry.org/) before you proceed.
 
-###Tech Stack
+### Tech Stack
 - Polymer Web Components
 - Angular
 - Npm
 - Bower
 - Grunt
 
-##Microcomponents
+## Microcomponents
 - [Dashboard Seed](https://github.com/predixdev/predix-seed)
 - See [bower.json](https://github.com/PredixDev/rmd-ref-app-ui/blob/master/bower.json) in this repository for a complete list of front end web components.
 
