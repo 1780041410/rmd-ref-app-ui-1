@@ -1,3 +1,8 @@
+# DEPRECATED
+This project is no longer maintained.  The new reference app UI is located here:
+
+https://github.com/predixdev/predix-webapp-starter
+
 ## RM&D Reference Application UI Microservice
 
 ### Getting Started 
